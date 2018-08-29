@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (4.7.3)
+  - FCUUID (1.3.1):
+    - UICKeyChainStore (~> 2.1.0)
+  - HandyJSON (4.1.3)
+  - SnapKit (4.0.0)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (4.1.0)
+  - UICKeyChainStore (2.1.1)
+  - YYCategories (1.0.4):
+    - YYCategories/no-arc (= 1.0.4)
+  - YYCategories/no-arc (1.0.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - FCUUID
+  - HandyJSON (~> 4.1.3)
+  - SnapKit (~> 4.0.0)
+  - SVProgressHUD
+  - SwiftyJSON
+  - YYCategories
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - FCUUID
+    - HandyJSON
+    - SnapKit
+    - SVProgressHUD
+    - SwiftyJSON
+    - UICKeyChainStore
+    - YYCategories
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  FCUUID: bb054fc90cd7cd99320f9f6ff8e130fe607fba05
+  HandyJSON: bc81fbeb62d65ae5d5942ed29bc4a8265d18c1e8
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+  UICKeyChainStore: 239558492fa260531a0774cfc611ea83a6eaff3a
+  YYCategories: 6bcd4314c6661a561410dce4a793379ebd306abd
+
+PODFILE CHECKSUM: 4e82c3766de851fb956e4897807ff179e1e1c9c7
+
+COCOAPODS: 1.5.3
